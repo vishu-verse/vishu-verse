@@ -33,8 +33,8 @@ I'm **Aayushi**, an **Aspiring Software Developer** passionate about creating re
 ### 🔭 Projects & Interests
 
 - 🚀 Currently building **LungEase** – a low-cost AI-powered spirometer for respiratory health
-- 📦 Uploading C++ DSA solutions regularly
-- 🌐 Passionate about combining **hardware + AI** to solve real-world healthcare problems
+- 📦 Doing C++ DSA solutions regularly
+- 🌐 Passionate about combining **hardware + AI** to solve real-world problems
 
 ---
 
@@ -42,7 +42,7 @@ I'm **Aayushi**, an **Aspiring Software Developer** passionate about creating re
 
 ![Vishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishu-verse&show_icons=true&theme=radical)
 
----
+--- I am just a beginner here.
 
 ### 📫 Connect with Me
 
