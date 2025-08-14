@@ -2,7 +2,7 @@
 
 I'm **Aayushi**, an **Aspiring Software Engineer** passionate about creating real-world solutions through code and creativity.
 
-> **DSA with C++ | C & Python | Arduino | Web Dev Enthusiast | Exploring Web3, ML & AI**
+> **DSA with C++ | C & Python | Arduino | Web Dev Enthusiast | Exploring ML & AI**
 
 ---
 
@@ -10,8 +10,8 @@ I'm **Aayushi**, an **Aspiring Software Engineer** passionate about creating rea
 
 - 🌱 Currently focused on strengthening **Data Structures & Algorithms with C++**
 - 🛠 Building hardware-based health solutions using **Arduino** & embedded systems
-- 💻 Learning & practicing **Web Development (React, HTML, CSS, JS)**
-- 🔍 Exploring the possibilities of **Machine Learning, AI**, and **Web3**
+- 💻 Learning & practicing **Web Development (React,Next JS , HTML, CSS, JS)**
+- 🔍 Exploring the possibilities of **Machine Learning and AI**
 - 🧠 Strong believer in learning-by-doing, open-source, and building for impact
 
 ---
