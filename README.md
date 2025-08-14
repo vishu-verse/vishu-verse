@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Aayushi**, an **Aspiring Software Developer** passionate about creating real-world solutions through code and creativity.
+I'm **Aayushi**, an **Aspiring Software Engineer** passionate about creating real-world solutions through code and creativity.
 
 > **DSA with C++ | C & Python | Arduino | Web Dev Enthusiast | Exploring Web3, ML & AI**
 
